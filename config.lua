@@ -39,7 +39,7 @@ Config.EnableSmallImage = true -- Small Image enabled. Replace true with false t
 Config.SmallImageName = "YOUR_IMAGE_NAME" -- Image Name without .png, .jpg, or .jpeg --> https://discord.com/developers/applications/YOUR_APPLICATION_ID/rich-presence/assets
 
 Config.EnableSmallImageText = true -- Text which shows up if you hover small image. Replace true with false to disable.
-Config.SmallImageText = "standard" -- Text which shows up if you hover image.
+Config.SmallImageText = "PlayerLocZone" -- Text which shows up if you hover image.
 
 
 
